@@ -1,0 +1,6 @@
+Apple iPhone 8, iPhone 10, iPhone 12	iOS 13 and newer
+Google Pixel 2	Android 8
+Google Pixel 3	Android 11
+Google Pixel 4	Android 11
+Samsung Note 10	Android 10
+Huawei P30	Android 10
